@@ -36,7 +36,7 @@ h1 {
 }
 #newProfile label {
     display: block;
-    padding: 2%;
+    padding: 1%;
 }
 #newProfile input, #newProfile select {
 border-radius: 3px;
